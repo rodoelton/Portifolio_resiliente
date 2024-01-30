@@ -1,0 +1,15 @@
+Fruto de dicas ou de recomendações formais, o investimento em ações pode apresentar
+oportunidades de retornos atraentes.
+
+Entretanto, dicas de investimentos vistas na internet ou mesmo recomendações de
+compra de ações feitas por casas de análises ou analistas certificados têm como
+objetivo alcançar o maior número de pessoas possível,fazendo com que investidores
+adicionem a carteira uma ação que aumenta o risco total do portfólio sem, necessariamente,
+aumentar o retorno esperado.
+
+Assim, o objetivo desta aplicação é auxiliar o investidor a decidir se faz sentido adicionar
+uma determinada ação à carteira, a partir de métricas de risco e retorno.
+
+Nesta aplicação o usuário é convidado a informar as ações que possui em carteira com os respectivos
+valores investidos, assim como a ação que pretende adicionar à carteira. Então são calculadas
+métricas de risco e retorno que fornecem subsídio objetivo ao investidor.
